@@ -1,7 +1,10 @@
 // det här är en textfil som vi ska fylla med namn
 
-david
-susan 
-lois
-laura
-per Svensson
+
+David
+Susan 
+Lois
+Laura
+Per Svensson
+Jacob Svensson
+
